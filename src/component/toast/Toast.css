@@ -1,0 +1,35 @@
+.alert{
+    width: 40%;
+    height: 7vh;
+    padding: 10px;
+    flex-wrap: wrap;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+    /* top: 50px; */
+    right: 10px;
+    position: absolute;
+    border-radius: 10px;
+    z-index: 1111;
+    animation: appearPopUp .3s ease-in;
+
+}
+.alert-success {
+    background-color: rgb(57, 194, 80);
+}
+.alert-error {
+    background-color: rgb(214, 99, 99);
+}
+
+@keyframes appearPopUp {
+        from {
+            opacity: 0;
+            transform: translateX(300px);
+        }
+        to {
+            transform: translateX(0);
+            opacity: 1;
+        }
+    }
