@@ -13,10 +13,10 @@ function App() {
             <Route path="/" exact>
               <Patients />
             </Route>
-            <Route path="/prevention" exact>
+          <Route path="/prevention" exact>
               <Prevention/>
           </Route>
-          <Route path="*" exact>
+          <Route path="*" >
             <NotFound />
           </Route>
           </Switch>
