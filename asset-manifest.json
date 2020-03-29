@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "https://kdark669.github.io/corona-data/static/css/main.a11ff7a3.chunk.css",
-    "main.js": "https://kdark669.github.io/corona-data/static/js/main.7261494a.chunk.js",
-    "main.js.map": "https://kdark669.github.io/corona-data/static/js/main.7261494a.chunk.js.map",
-    "runtime-main.js": "https://kdark669.github.io/corona-data/static/js/runtime-main.229db9a6.js",
-    "runtime-main.js.map": "https://kdark669.github.io/corona-data/static/js/runtime-main.229db9a6.js.map",
-    "static/js/2.55d78de4.chunk.js": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js",
-    "static/js/2.55d78de4.chunk.js.map": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js.map",
-    "index.html": "https://kdark669.github.io/corona-data/index.html",
-    "precache-manifest.067f6d44d3c2e1ac4cb696b1f68e15de.js": "https://kdark669.github.io/corona-data/precache-manifest.067f6d44d3c2e1ac4cb696b1f68e15de.js",
-    "service-worker.js": "https://kdark669.github.io/corona-data/service-worker.js",
-    "static/css/main.a11ff7a3.chunk.css.map": "https://kdark669.github.io/corona-data/static/css/main.a11ff7a3.chunk.css.map",
-    "static/js/2.55d78de4.chunk.js.LICENSE.txt": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js.LICENSE.txt",
-    "static/media/spinner.gif": "https://kdark669.github.io/corona-data/static/media/spinner.f8cc1dee.gif"
+    "main.css": "/corona-data/static/css/main.a11ff7a3.chunk.css",
+    "main.js": "/corona-data/static/js/main.8dbdbbf1.chunk.js",
+    "main.js.map": "/corona-data/static/js/main.8dbdbbf1.chunk.js.map",
+    "runtime-main.js": "/corona-data/static/js/runtime-main.13f2c6aa.js",
+    "runtime-main.js.map": "/corona-data/static/js/runtime-main.13f2c6aa.js.map",
+    "static/js/2.55d78de4.chunk.js": "/corona-data/static/js/2.55d78de4.chunk.js",
+    "static/js/2.55d78de4.chunk.js.map": "/corona-data/static/js/2.55d78de4.chunk.js.map",
+    "index.html": "/corona-data/index.html",
+    "precache-manifest.93a764669b599f3660e53f0431f64f19.js": "/corona-data/precache-manifest.93a764669b599f3660e53f0431f64f19.js",
+    "service-worker.js": "/corona-data/service-worker.js",
+    "static/css/main.a11ff7a3.chunk.css.map": "/corona-data/static/css/main.a11ff7a3.chunk.css.map",
+    "static/js/2.55d78de4.chunk.js.LICENSE.txt": "/corona-data/static/js/2.55d78de4.chunk.js.LICENSE.txt",
+    "static/media/spinner.gif": "/corona-data/static/media/spinner.f8cc1dee.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.229db9a6.js",
+    "static/js/runtime-main.13f2c6aa.js",
     "static/js/2.55d78de4.chunk.js",
     "static/css/main.a11ff7a3.chunk.css",
-    "static/js/main.7261494a.chunk.js"
+    "static/js/main.8dbdbbf1.chunk.js"
   ]
 }
