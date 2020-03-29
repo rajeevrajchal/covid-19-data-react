@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter,Route, Switch} from "react-router-dom";
+import { HashRouter,Route, Switch} from "react-router-dom";
 import './App.css';
 import Patients from './component/patients/Patients';
 import Prevention from './component/prevention/Prevention';
@@ -9,19 +9,19 @@ function App() {
 
   return (
     <div className="App">
-      <BrowserRouter >
+      <HashRouter basename='/'>
         <Switch>
-          <Route path={`${process.env.PUBLIC_URL}/`} exact>
+          <Route path='/' exact  >
               <Patients />
             </Route>
-          <Route path={`${process.env.PUBLIC_URL}/prevention`} >
+          <Route path='/prevention' exact >
               <Prevention/>
           </Route>
-          <Route path={`${process.env.PUBLIC_URL}/*`}>
+          <Route path='*'>
             <NotFound />
           </Route>
           </Switch>
-      </BrowserRouter>
+      </HashRouter>
     </div>
   );
 }

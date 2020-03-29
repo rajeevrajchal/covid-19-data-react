@@ -10,7 +10,7 @@ export default function Prevention() {
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <span className="navbar-brand" href="#">Corona Virus Update</span>
                 <div className="search-section">
-                    <Link to="/corona-data" className="btn btn-outline-success my-2 my-sm-0" type="submit">Back</Link>
+                    <Link to="/" className="btn btn-outline-success my-2 my-sm-0" type="submit">Back</Link>
                 </div>
             </nav>
             <div className="container">
@@ -30,7 +30,7 @@ export default function Prevention() {
             <br/>
             <footer className="navbar navbar-expand-lg navbar-dark bg-dark">
                 <span className="navbar-brand" href="#">Corona Virus Update</span>
-                <span className="navbar-brand"> Brought to you Buy <a href="https://itglance.net/">Itglance</a></span>
+                <span className="navbar-brand"> Brought to you By <a href="https://itglance.net/">Itglance</a></span>
             </footer>
 
         </div>
