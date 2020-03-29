@@ -6,17 +6,18 @@ import Prevention from './component/prevention/Prevention';
 import NotFound from './component/NotFound';
 
 function App() {
+
   return (
     <div className="App">
-      <BrowserRouter>
+      <BrowserRouter >
         <Switch>
-            <Route path="/" exact>
+          <Route path={`${process.env.PUBLIC_URL}/`} exact>
               <Patients />
             </Route>
-          <Route path="/prevention" exact>
+          <Route path={`${process.env.PUBLIC_URL}/prevention`} >
               <Prevention/>
           </Route>
-          <Route path="*" >
+          <Route path={`${process.env.PUBLIC_URL}/*`}>
             <NotFound />
           </Route>
           </Switch>

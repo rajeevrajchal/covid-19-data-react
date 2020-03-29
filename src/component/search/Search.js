@@ -57,7 +57,7 @@ export default function Search(porps) {
     return (
         <div className="header">
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-                <Link to="/prevention" className="link" >Prevention Measures</Link>
+                <Link to="/corona-data/prevention" className="link" >Prevention Measures</Link>
                 <span className="navbar-brand" href="#">Corona Virus Update</span>
                 <div className="search-section">
                     <form className="form-inline my-2 my-lg-0" onSubmit={getSearchData} >
