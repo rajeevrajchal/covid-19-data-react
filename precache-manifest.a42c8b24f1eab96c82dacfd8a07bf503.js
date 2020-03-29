@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4ef9c04a08f5b41dc7e6d2d6f480d06b",
+    "revision": "ea21baec8f8392a11c9eb7822cffe38c",
     "url": "https://kdark669.github.io/corona-data/index.html"
   },
   {
-    "revision": "91d1738cabe96ae0e43f",
+    "revision": "8f9160fef382f1c66f88",
     "url": "https://kdark669.github.io/corona-data/static/css/main.a11ff7a3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "91d1738cabe96ae0e43f",
-    "url": "https://kdark669.github.io/corona-data/static/js/main.4d57455f.chunk.js"
+    "revision": "8f9160fef382f1c66f88",
+    "url": "https://kdark669.github.io/corona-data/static/js/main.08ba9fae.chunk.js"
   },
   {
     "revision": "396a541038323311cc06",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "https://kdark669.github.io/corona-data/static/css/main.a11ff7a3.chunk.css",
-    "main.js": "https://kdark669.github.io/corona-data/static/js/main.4d57455f.chunk.js",
-    "main.js.map": "https://kdark669.github.io/corona-data/static/js/main.4d57455f.chunk.js.map",
+    "main.js": "https://kdark669.github.io/corona-data/static/js/main.08ba9fae.chunk.js",
+    "main.js.map": "https://kdark669.github.io/corona-data/static/js/main.08ba9fae.chunk.js.map",
     "runtime-main.js": "https://kdark669.github.io/corona-data/static/js/runtime-main.229db9a6.js",
     "runtime-main.js.map": "https://kdark669.github.io/corona-data/static/js/runtime-main.229db9a6.js.map",
     "static/js/2.55d78de4.chunk.js": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js",
     "static/js/2.55d78de4.chunk.js.map": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js.map",
     "index.html": "https://kdark669.github.io/corona-data/index.html",
-    "precache-manifest.a4a686fedb3cf0ddb649dba51e20fa52.js": "https://kdark669.github.io/corona-data/precache-manifest.a4a686fedb3cf0ddb649dba51e20fa52.js",
+    "precache-manifest.a42c8b24f1eab96c82dacfd8a07bf503.js": "https://kdark669.github.io/corona-data/precache-manifest.a42c8b24f1eab96c82dacfd8a07bf503.js",
     "service-worker.js": "https://kdark669.github.io/corona-data/service-worker.js",
     "static/css/main.a11ff7a3.chunk.css.map": "https://kdark669.github.io/corona-data/static/css/main.a11ff7a3.chunk.css.map",
     "static/js/2.55d78de4.chunk.js.LICENSE.txt": "https://kdark669.github.io/corona-data/static/js/2.55d78de4.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.229db9a6.js",
     "static/js/2.55d78de4.chunk.js",
     "static/css/main.a11ff7a3.chunk.css",
-    "static/js/main.4d57455f.chunk.js"
+    "static/js/main.08ba9fae.chunk.js"
   ]
 }
