@@ -29,8 +29,7 @@ export default function Prevention() {
             </div>
             <br/>
             <footer className="navbar navbar-expand-lg navbar-dark bg-dark">
-                <span className="navbar-brand" href="#">Corona Virus Update</span>
-                <span className="navbar-brand"> Brought to you By <a href="https://itglance.net/">Itglance</a></span>
+                <span className="navbar-brand"> Stay Home Stay Safe</span>
             </footer>
 
         </div>
